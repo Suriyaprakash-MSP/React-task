@@ -1,0 +1,35 @@
+form {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  align-items: left;
+  justify-content: left;
+}
+
+form div {
+  margin-bottom: 10px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+
+}
+
+label {
+  font-size: 14px;
+  font-weight: 600;
+  width: 130px;
+  margin-right: 10px;
+  text-align: left;
+  align-items: left;
+}
+
+button {
+  padding: 5px 10px;
+  font-size: 16px;
+  
+}
+
+h3 {
+  align-items: center;
+  margin-top: 20px;
+}
